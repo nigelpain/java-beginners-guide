@@ -1,0 +1,39 @@
+2.
+
+if(condition) statement;
+else if(condition) statement;
+else statement;
+
+3.
+
+if(y > 100)
+
+4.
+
+for(i = 1000; i >= 0; i-=2)
+
+5.
+
+No in count = i, i is out of scope as this statement is outside of the for loop
+
+6.
+
+break will stop execution of the nearest enclosing loop resuming at the next line of program after the loop. break label
+will stop execution of the loop and resume execution at the line after the codeblock assigned the label.
+
+7.
+
+after while
+
+8.
+
+0
+1 3 5 7 9
+
+11.
+
+for ( ; ; ) an infinite loop will only stop executing when explicitly told to do so using something like a break statement
+
+12.
+
+yes
